@@ -29,8 +29,8 @@ After running the MLRM model, the test results are given as follows:
 
 Significant variables at 99% confidence level:
 
-Postitively Significant: Months excluding January, February, October and November and CPI_Energy
-Negatively Significant: Unemployment
+1. Postitively Significant: Months excluding January, February, October and November and CPI_Energy
+2. Negatively Significant: Unemployment
 
 Interpretation of significant variables:
 1. Months excluding January, February, October and November: The sales excluding these months are consistently good. This means the customers are not preferring to buy Elantra during year end for the winter season.
